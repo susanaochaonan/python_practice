@@ -63,7 +63,7 @@ if __name__=="__main__":
     # print(json.dumps(d,cls=DateToJson))
     # print(json.dumps("中国"))
     # print(json.dumps("中国",ensure_ascii=False))
-    datetime_delay(1)
+    datetime_delay(2)
 
 print((mul_operate(5))(2))
 

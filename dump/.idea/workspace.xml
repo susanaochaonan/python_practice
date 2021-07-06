@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8581ed9c-3fed-44f9-9a46-6d2eebbae7fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/data/AndroidClient.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/data/HangqingPage.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/data/HomePage.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/data/SearchPage.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/data/pop.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/driver/AndroidClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/driver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/po/App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/po/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/po/HangqingPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/po/HomePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/po/SearchPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/po/load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/testcase/encrypt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/testcase/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/testcase/test_hangqingpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/testcase/test_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/testcase/test_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/ut/Log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/ut/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/app/android/ut/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/data/AndroidClient.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/data/HangqingPage.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/data/HomePage.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/data/Login.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/data/SearchPage.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/data/pop.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/driver/AndroidClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/driver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/po/App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/po/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/po/HangqingPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/po/HomePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/po/LoginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/po/SearchPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/po/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/po/load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/testcase/.pytest_cache/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/testcase/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/testcase/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/testcase/test_hangqingpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/testcase/test_load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/testcase/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/testcase/test_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/frame/util/exception_handle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/p/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/p/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/p/test_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/p/thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/data/contact_page.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/data/index_page.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/po/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/po/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/po/contact_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/po/index_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/test_cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/test_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/wework/testcase/test_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/driver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/driver/browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/po/BasePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/po/LoginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/po/SearchPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/po/Web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/po/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/po/homePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UI/web/xueqiu/testcase/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dump/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dump/class_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dump/xueqiu_maplocal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dump/xueqiu_rewrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/json_traval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_file.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dump/dump_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dump/xueqiu_maplocal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/a.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcase/test_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/json_traval.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dump/xueqiu_rewrite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dump_test.py" />
+        <option value="$PROJECT_DIR$/class_demo.py" />
+        <option value="$PROJECT_DIR$/xueqiu_rewrite.py" />
+        <option value="$PROJECT_DIR$/file.py" />
+        <option value="$PROJECT_DIR$/test_file.py" />
+        <option value="F:/a.json" />
+        <option value="$PROJECT_DIR$/xueqiu_maplocal.py" />
+        <option value="$PROJECT_DIR$/json_traval.py" />
+        <option value="$PROJECT_DIR$/testcase/json_traval.py" />
+        <option value="$PROJECT_DIR$/testcase/test_file.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/dump.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2165" />
+    <option name="y" value="110" />
+    <option name="width" value="1400" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dump" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dump" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dump" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dump" type="462c0819:PsiDirectoryNode" />
+              <item name="dump" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dump" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dump" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../base" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\script\dump\testcase" />
+      <recent name="E:\script\dump\dump" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_file.py">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="dump" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="json_traval" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dump" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="E:\script\dump\testcase\json_traval.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dump" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="E:\script\dump\testcase\test_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xueqiu_maplocal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dump" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="E:\script\dump\dump\xueqiu_maplocal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_file.test_file" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="dump" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_file.test_file&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_file.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="dump" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_file.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.json_traval" />
+      <item itemvalue="Python.test_file" />
+      <item itemvalue="Python.xueqiu_maplocal" />
+      <item itemvalue="Python tests.pytest for test_file.test_file" />
+      <item itemvalue="Python tests.pytest in test_file.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_file.py" />
+        <item itemvalue="Python tests.pytest for test_file.test_file" />
+        <item itemvalue="Python.json_traval" />
+        <item itemvalue="Python.xueqiu_maplocal" />
+        <item itemvalue="Python.test_file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8581ed9c-3fed-44f9-9a46-6d2eebbae7fa" name="Default Changelist" comment="" />
+      <created>1621674465398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621674465398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 18h 26m 29s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 18h 27m 47s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 18h 40m 52s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 18h 48m 35s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 18h 49m 00s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 18h 49m 17s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 18h 49m 47s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 19h 52m 09s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 19h 54m 09s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_file_py - 2021.05.25 at 19h 54m 45s.xml">
+      <configuration name="pytest in test_file.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2165" y="110" width="1400" height="998" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41666666" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298611" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3298611" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/quote.json" />
+    <entry file="file://$PROJECT_DIR$/dump/class_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump/dump_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump/xueqiu_maplocal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/a.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/json_traval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump/xueqiu_rewrite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

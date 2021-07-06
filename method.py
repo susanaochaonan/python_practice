@@ -36,10 +36,12 @@ def log_decrate(info):
 if __name__=="__main__":
 
 
-    @log_decrate("debug")
-    def foo(a, b, c):
-        s=a + b + c
-        print(s==10)
+    # @log_decrate("debug")
+    # def foo(a, b, c):
+    #     s=a + b + c
+    #     print(s==10)
+    #
+    #
+    # foo(1, 2, 3)
 
-
-    foo(1, 2, 3)
+    json_translate()
